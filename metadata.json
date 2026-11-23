@@ -1,0 +1,8 @@
+{
+  "name": "Remix AeroScope 3D — ATC Radar Timelapse Studio",
+  "description": "3D aviation radar log playback and cinematic timelapse visualizer for EuroScope FSD logs and airspace sectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

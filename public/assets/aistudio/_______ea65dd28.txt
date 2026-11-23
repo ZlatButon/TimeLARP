@@ -1,0 +1,429 @@
+
+[16:00:40 <<<2 UWGG_R_APP]
+%UWGG_R_APP:99998:5:150:5:56.23000:43.78417:0
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CQUWGG_R_APP:SERVER:ATC:UWGG_R_APP
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CQUWGG_R_APP:SERVER:CAPS
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CQUWGG_R_APP:SERVER:IP
+
+[16:00:40 >>>> UWGG_R_APP]
+#TMserver:UWGG_R_APP:Welcome to VATSIM! Need help getting started? Visit https://vats.im/plc for excellent resources.
+
+[16:00:40 >>>> UWGG_R_APP]
+#TMserver:UWGG_R_APP:By continuing with your connection, you agree to be bound by the terms of the VATSIM User Agreement
+
+[16:00:40 >>>> UWGG_R_APP]
+#TMserver:UWGG_R_APP:Seasoned member? Check out current and upcoming events at https://vats.im/events
+
+[16:00:40 >>>> UWGG_R_APP]
+#TMserver:UWGG_R_APP:For the latest community and network updates visit our website or connect with us on Discord https://vats.im/community
+
+[16:00:40 >>>> UWGG_R_APP]
+#TMserver:UWGG_R_APP:Thanks for being a part of the community and enjoy your session!
+
+[16:00:40 >>>> UWGG_R_APP]
+#TMserver:UWGG_R_APP:Consider supporting VATSIM: https://donate.vatsim.net 
+
+[16:00:40 >>>> UWGG_R_APP]
+#TMserver:UWGG_R_APP:CTAF is now live in VATPAC! See https://blog.vatsim.net/ctaf-now-operational-in-vatpac-australia-pacific/
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQSERVER:UWGG_R_APP:CAPS
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:SERVER:CAPS:ATCINFO=1:SECPOS=1:MODELDESC=1:ONGOINGCOORD=1:TEAMSPEAK=1:ICAOEQ=1
+
+[16:00:40 >>>> UWGG_R_APP]
+$CRSERVER:UWGG_R_APP:ATC:Y:UWGG_R_APP
+
+[16:00:40 >>>> UWGG_R_APP]
+$CRSERVER:UWGG_R_APP:CAPS:ATCINFO=1:SECPOS=1:ICAOEQ=1:FASTPOS=1:OBSPILOT=1
+
+[16:00:40 >>>> UWGG_R_APP]
+$CRSERVER:UWGG_R_APP:IP:144.31.5.75
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAFL7090:@94836:ACC:{"config":{"lights":{},"engines":{"1":{"on":true,"is_reversing":false,"rpm_pct":100},"2":{"on":true,"is_reversing":false,"rpm_pct":100}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQSPLFL:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":50},"2":{"rpm_pct":45}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQSAS44U:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":50},"2":{"rpm_pct":50}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAFL7090:@94836:ACC:{"config":{"lights":{},"engines":{"1":{"on":true,"is_reversing":false,"rpm_pct":95},"2":{"on":true,"is_reversing":false,"rpm_pct":95}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+#APTRA5161:SERVER:1953213::1:101:2:Silvijn Jurre Oosterhof EHTE
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAFL7090:@94836:ACC:{"config":{"lights":{},"engines":{"1":{"on":true,"is_reversing":false,"rpm_pct":100},"2":{"on":true,"is_reversing":false,"rpm_pct":100}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQWZZ69A:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":65},"2":{"rpm_pct":65}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAFL007:UWGG_R_APP:CAPS
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:AFL007:CAPS:ATCINFO=1:SECPOS=1:MODELDESC=1:ONGOINGCOORD=1:TEAMSPEAK=1:ICAOEQ=1
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAFL007:UWGG_R_APP:RN
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:AFL007:RN:Vyacheslav Neklyudov:VATSIM Moscow FIR v9.6.5 (AIRAC2607) VATSIM Moscow FIR:5
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQ$HUB-USA-EAST$6AE9F3F8:UWGG_R_APP:INF
+
+[16:00:40 <<<2 UWGG_R_APP]
+#TMUWGG_R_APP:$HUB-USA-EAST$6AE9F3F8:PID=1572342 EuroScope 3.2c(r2) IP=144.31.5.75 SYS_UID=544816802 FSVER= LT=56.23000 LO=43.78417 AL=0 Vyacheslav Neklyudov plug-in: Sintez RDF (TrackAudio)/1.1 plug-in: vSMR Vega/2.3.3 plug-in: Squawk Range/1.5.1 plug-in: Moscow Plugin for ES/4.0.3 plug-in: MMSSeq/0.8.1b plug-in: Sintez KS/1.14.7
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEDDV_TWR:@94835:WH:RYR18BX
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQMSK_APP:UWGG_R_APP:RN
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:MSK_APP:RN:Vyacheslav Neklyudov:VATSIM Moscow FIR v9.6.5 (AIRAC2607) VATSIM Moscow FIR:5
+
+[16:00:40 >>>> UWGG_R_APP]
+#PCMSK_APP:UWGG_R_APP:CCP:ID
+
+[16:00:40 <<<2 UWGG_R_APP]
+#PCUWGG_R_APP:MSK_APP:CCP:DI
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQMSK_APP:UWGG_R_APP:CAPS
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:MSK_APP:CAPS:ATCINFO=1:SECPOS=1:MODELDESC=1:ONGOINGCOORD=1:TEAMSPEAK=1:ICAOEQ=1
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEZY79QE:@94836:ACC:{"config":{"lights":{},"engines":{"1":{"on":true,"is_reversing":false,"rpm_pct":50},"2":{"on":true,"is_reversing":false,"rpm_pct":50}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQSAS1694:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":25}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQUWWW_CTR:UWGG_R_APP:RN
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:UWWW_CTR:RN:Vyacheslav Neklyudov:VATSIM Moscow FIR v9.6.5 (AIRAC2607) VATSIM Moscow FIR:5
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAFL1019:UWGG_R_APP:CAPS
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:AFL1019:CAPS:ATCINFO=1:SECPOS=1:MODELDESC=1:ONGOINGCOORD=1:TEAMSPEAK=1:ICAOEQ=1
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQPBD1911:@94836:ACC:{"config":{"lights":{},"engines":{"1":{"on":true,"is_reversing":true,"rpm_pct":70},"2":{"on":true,"is_reversing":true,"rpm_pct":70}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQSWR85L:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":55},"2":{"rpm_pct":55}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEFIN_CTR:@94835:WH:SAS3914
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEFIN_CTR:@94835:WH:ASL186
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEFIN_CTR:@94835:WH:SDM6105
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEFIN_CTR:@94835:WH:DLH6CJ
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEFIN_CTR:@94835:WH:XNO6GA
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQDCLIENT3:UWGG_R_APP:INF
+
+[16:00:40 <<<2 UWGG_R_APP]
+#TMUWGG_R_APP:DCLIENT3:PID=1572342 EuroScope 3.2c(r2) IP=144.31.5.75 SYS_UID=544816802 FSVER= LT=56.23000 LO=43.78417 AL=0 Vyacheslav Neklyudov plug-in: Sintez RDF (TrackAudio)/1.1 plug-in: vSMR Vega/2.3.3 plug-in: Squawk Range/1.5.1 plug-in: Moscow Plugin for ES/4.0.3 plug-in: MMSSeq/0.8.1b plug-in: Sintez KS/1.14.7
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAFL7090:@94836:ACC:{"config":{"lights":{},"engines":{"1":{"on":true,"is_reversing":false,"rpm_pct":95},"2":{"on":true,"is_reversing":false,"rpm_pct":95}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQULLL_R2_CTR:UWGG_R_APP:RN
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:ULLL_R2_CTR:RN:Vyacheslav Neklyudov:VATSIM Moscow FIR v9.6.5 (AIRAC2607) VATSIM Moscow FIR:5
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQUUWV_TMU:UWGG_R_APP:RN
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:UUWV_TMU:RN:Vyacheslav Neklyudov:VATSIM Moscow FIR v9.6.5 (AIRAC2607) VATSIM Moscow FIR:5
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEFIN_CTR:@94835:WH:AFL1329
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAFL1019:UWGG_R_APP:RN
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:AFL1019:RN:Vyacheslav Neklyudov:VATSIM Moscow FIR v9.6.5 (AIRAC2607) VATSIM Moscow FIR:5
+
+[16:00:40 >>>> UWGG_R_APP]
+#PCUWWW_CTR:UWGG_R_APP:CCP:ID
+
+[16:00:40 <<<2 UWGG_R_APP]
+#PCUWGG_R_APP:UWWW_CTR:CCP:DI
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQUWWW_CTR:UWGG_R_APP:CAPS
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:UWWW_CTR:CAPS:ATCINFO=1:SECPOS=1:MODELDESC=1:ONGOINGCOORD=1:TEAMSPEAK=1:ICAOEQ=1
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEHAM_DEL:@94835:WH:TRA5161
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQDCLIENT4:UWGG_R_APP:INF
+
+[16:00:40 <<<2 UWGG_R_APP]
+#TMUWGG_R_APP:DCLIENT4:PID=1572342 EuroScope 3.2c(r2) IP=144.31.5.75 SYS_UID=544816802 FSVER= LT=56.23000 LO=43.78417 AL=0 Vyacheslav Neklyudov plug-in: Sintez RDF (TrackAudio)/1.1 plug-in: vSMR Vega/2.3.3 plug-in: Squawk Range/1.5.1 plug-in: Moscow Plugin for ES/4.0.3 plug-in: MMSSeq/0.8.1b plug-in: Sintez KS/1.14.7
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAFL1383:@94836:ACC:{"config":{"gear_down":false}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQLSAG_E_CTR:@94835:WH:TRA5161
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEKDK_CTR:@94835:WH:TRA5161
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEDGG_CS_CTR:@94835:WH:TRA5161
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQVIR21SB:@94836:ACC:{"config":{"engines":{"1":{"on":false,"rpm_pct":75},"2":{"on":false,"rpm_pct":75},"3":{"on":false,"rpm_pct":75},"4":{"on":false,"rpm_pct":75}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEGT580:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":50},"2":{"rpm_pct":50}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAFL7090:@94836:ACC:{"config":{"lights":{},"engines":{"1":{"on":true,"is_reversing":false,"rpm_pct":100},"2":{"on":true,"is_reversing":false,"rpm_pct":100}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+#PCULLL_R2_CTR:UWGG_R_APP:CCP:ID
+
+[16:00:40 <<<2 UWGG_R_APP]
+#PCUWGG_R_APP:ULLL_R2_CTR:CCP:DI
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQULLL_R2_CTR:UWGG_R_APP:CAPS
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:ULLL_R2_CTR:CAPS:ATCINFO=1:SECPOS=1:MODELDESC=1:ONGOINGCOORD=1:TEAMSPEAK=1:ICAOEQ=1
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQSBI730:UWGG_R_APP:CAPS
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:SBI730:CAPS:ATCINFO=1:SECPOS=1:MODELDESC=1:ONGOINGCOORD=1:TEAMSPEAK=1:ICAOEQ=1
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQWZZ172:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":35},"2":{"rpm_pct":35}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEDDG_HMM_APP:@94835:WH:TRA5161
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAFL7090:@94836:ACC:{"config":{"lights":{},"engines":{"1":{"on":true,"is_reversing":false,"rpm_pct":95},"2":{"on":true,"is_reversing":false,"rpm_pct":95}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEDWW_ALR_CTR:@94835:WH:TRA5161
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAUL510:UWGG_R_APP:CAPS
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:AUL510:CAPS:ATCINFO=1:SECPOS=1:MODELDESC=1:ONGOINGCOORD=1:TEAMSPEAK=1:ICAOEQ=1
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAUL510:UWGG_R_APP:RN
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:AUL510:RN:Vyacheslav Neklyudov:VATSIM Moscow FIR v9.6.5 (AIRAC2607) VATSIM Moscow FIR:5
+
+[16:00:40 >>>> UWGG_R_APP]
+#PCUUWV_TMU:UWGG_R_APP:CCP:ID
+
+[16:00:40 <<<2 UWGG_R_APP]
+#PCUWGG_R_APP:UUWV_TMU:CCP:DI
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQUUWV_TMU:UWGG_R_APP:CAPS
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:UUWV_TMU:CAPS:ATCINFO=1:SECPOS=1:MODELDESC=1:ONGOINGCOORD=1:TEAMSPEAK=1:ICAOEQ=1
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQFN_OBS:@94835:WH:TRA5161
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEKDK_CTR:@94835:DR:NSZ3212
+
+[16:00:40 >>>> UWGG_R_APP]
+$FPNSZ3212:*A:I:B38M/M-SDE1FGHILORVWXY/HB1:450:EKCH:1555:1555:33000:ESSA:1:2:2:22:ESOK:PBN/A1B1C1D1L1O1S1S2 DOF/261122 REG/B2131 EET/ESAA0003 SEL/ABCD OPR/NSZ PER/D RMK/TCAS /V/:KEMAX5A KEMAX N851 ROXEN DCT MIKNA N851 PELUP Z226 NILUG NILUG3M
+
+[16:00:40 <<<2 UWGG_R_APP]
+#TMUWGG_R_APP:FP:NSZ3212 GET
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQLSAG_N_CTR:@94835:WH:TRA5161
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQSBI730:UWGG_R_APP:RN
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:SBI730:RN:Vyacheslav Neklyudov:VATSIM Moscow FIR v9.6.5 (AIRAC2607) VATSIM Moscow FIR:5
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEUS33HI:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":80},"2":{"rpm_pct":80}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEFIN_CTR:@94835:WH:BAW820
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEFIN_CTR:@94835:WH:UTA8901
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEFIN_CTR:@94835:WH:SAS62F
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEFIN_CTR:@94835:WH:SAS245
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEFIN_CTR:@94835:WH:THY5LH
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEFIN_CTR:@94835:WH:LOT93
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEFIN_CTR:@94835:WH:AFL760
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEFIN_CTR:@94835:WH:HKS160
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQULLL_R_CTR:UWGG_R_APP:RN
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:ULLL_R_CTR:RN:Vyacheslav Neklyudov:VATSIM Moscow FIR v9.6.5 (AIRAC2607) VATSIM Moscow FIR:5
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQRYR7AX:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":25},"2":{"rpm_pct":25}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQSDM6418:UWGG_R_APP:CAPS
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:SDM6418:CAPS:ATCINFO=1:SECPOS=1:MODELDESC=1:ONGOINGCOORD=1:TEAMSPEAK=1:ICAOEQ=1
+
+[16:00:40 >>>> UWGG_R_APP]
+#PCULLL_R_CTR:UWGG_R_APP:CCP:ID
+
+[16:00:40 <<<2 UWGG_R_APP]
+#PCUWGG_R_APP:ULLL_R_CTR:CCP:DI
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQULLL_R_CTR:UWGG_R_APP:CAPS
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:ULLL_R_CTR:CAPS:ATCINFO=1:SECPOS=1:MODELDESC=1:ONGOINGCOORD=1:TEAMSPEAK=1:ICAOEQ=1
+
+[16:00:40 >>>> UWGG_R_APP]
+#APAAL107:SERVER:1737570::1:101:2:Jeffrey Jobe KORD
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQLLBG_E_GND:@94835:SC:CYP1412:NSTS
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAFL2182:UWGG_R_APP:CAPS
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:AFL2182:CAPS:ATCINFO=1:SECPOS=1:MODELDESC=1:ONGOINGCOORD=1:TEAMSPEAK=1:ICAOEQ=1
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQAFL2182:UWGG_R_APP:RN
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:AFL2182:RN:Vyacheslav Neklyudov:VATSIM Moscow FIR v9.6.5 (AIRAC2607) VATSIM Moscow FIR:5
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQRU-SC_FSS:UWGG_R_APP:RN
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:RU-SC_FSS:RN:Vyacheslav Neklyudov:VATSIM Moscow FIR v9.6.5 (AIRAC2607) VATSIM Moscow FIR:5
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQLLBG_E_GND:@94835:SC:CYP1412:
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQLLBG_E_GND:@94835:SC:CYP1412:ONFREQ
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQLLBG_E_GND:@94835:SC:CYP1412:
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQCFG2051:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":25},"2":{"rpm_pct":25}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEWG7AZA:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":75},"2":{"rpm_pct":75}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQEGKK_TWR:@94835:WH:AAL107
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQVWS6BY:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":60},"2":{"rpm_pct":60},"3":{"rpm_pct":60},"4":{"rpm_pct":60}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQPBD1911:@94836:ACC:{"config":{"lights":{},"engines":{"1":{"on":true,"is_reversing":true,"rpm_pct":65},"2":{"on":true,"is_reversing":true,"rpm_pct":65}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQSDM6418:UWGG_R_APP:RN
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:SDM6418:RN:Vyacheslav Neklyudov:VATSIM Moscow FIR v9.6.5 (AIRAC2607) VATSIM Moscow FIR:5
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQRYR2064:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":70},"2":{"rpm_pct":70}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQKLM2511:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":75},"2":{"rpm_pct":75}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQNLM80B:@94836:ACC:{"config":{"gear_down":false}}
+
+[16:00:40 >>>> UWGG_R_APP]
+#PCRU-SC_FSS:UWGG_R_APP:CCP:ID
+
+[16:00:40 <<<2 UWGG_R_APP]
+#PCUWGG_R_APP:RU-SC_FSS:CCP:DI
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQRU-SC_FSS:UWGG_R_APP:CAPS
+
+[16:00:40 <<<2 UWGG_R_APP]
+$CRUWGG_R_APP:RU-SC_FSS:CAPS:ATCINFO=1:SECPOS=1:MODELDESC=1:ONGOINGCOORD=1:TEAMSPEAK=1:ICAOEQ=1
+
+[16:00:40 >>>> UWGG_R_APP]
+$CQSPLFL:@94836:ACC:{"config":{"engines":{"1":{"rpm_pct":55},"2":{"rpm_pct":50}}}}
+
+[16:00:40 >>>> UWGG_R_APP]
+$FPOSE112:*A:I:P180/L-SBDFGM3RWXY/LB1:356:LIPX:1625:1625:22000:LSZS:0:37:2:2:LSMP:PBN/A1B2C2D2L1O2S2 DOF/261122 REG/IAFBR EET/LSAS0021 SEL/AFBR OPR/OSE PER/C IV /V/:ADOSA DCT BORMI DCT VALAV DCT RONAG
